@@ -4,26 +4,26 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "21179966"))
+API_ID = int(os.environ.get("API_ID", "27262405"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","d97919fb0a3c725e8bb2a25bbb37d57c")
+API_HASH = os.environ.get("API_HASH","33011215edbd8c0f6b710df2fdf0b088")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7491420990:AAF60g1iDgPVwwlux4LiqIfyU5iYm0g-l-Q")
+BOT_TOKEN = os.environ.get("BOT_TOKEN","7799243917:AAHpsOOIKswmUA9XQ0lk2SMGePGV-WnVvuQ")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@jaishreeerraaambot")
-BOT_TEXT = "𝐏𝐑𝐎 𝐄𝐗𝐓𝐑𝐀𝐂𝐓𝐎𝐑 🫵"
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Extractorvicky_bot")
+BOT_TEXT = "Extractorvicky_bot 🫵"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7168441486"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "6768714745"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002528566734"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002609761797"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002528566734")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002526911796")) 
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://lodalesson876:FKxK7BZGq1WzE4ae@cluster0.or1gz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://vikassonawale0:JWyQFas7vlG1bkaL@cluster0.beermge.mongodb.net/?retryWrites=true&w=majority")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002528566734"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "--1002372063544"))
 # -----------------------------------------------
 join = '<a href="https://t.me/proex_channel">✳️ Bᴀᴄᴋᴜᴘ</a>'
 # -----------------------------------------------
