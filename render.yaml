@@ -1,5 +1,5 @@
 services:
-  - name: annu
+  - name: vikas
     type: web
     env: python
     buildCommand: pip install -r requirements.txt
