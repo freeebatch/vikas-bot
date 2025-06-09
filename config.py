@@ -8,12 +8,12 @@ API_ID = int(os.environ.get("API_ID", "18579024"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","124981da628d86e21ee492da77cd4037")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN","7889543520:AAHgN5yN2ITM7AJRM7Bw6sbPlQ5kX9YZiwE")
+BOT_TOKEN = os.environ.get("BOT_TOKEN","7882161495:AAESYAlvdUpNthQmxCzU0ht-ukbk3KU9IJ4")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Kingextractor_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@MadXContactBot")
 BOT_TEXT = "Kingextractor 🫵"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7726207129"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1671836568"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "7726207129"))
@@ -23,15 +23,15 @@ CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "7726207129"))
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://vikassonawale0:JWyQFas7vlG1bkaL@cluster0.beermge.mongodb.net/?retryWrites=true&w=majority")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002670587821"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002370656932"))
 # -----------------------------------------------
-join = '@Kingextractor'
+join = '@MadXContact'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "@Kingextractor" #without @
+ADMIN_BOT_USERNAME = "Annukoushal" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://envs.sh/9HT.jpg")
 
